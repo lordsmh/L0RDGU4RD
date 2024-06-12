@@ -89,7 +89,7 @@ python L0rdGu4rd.py -h
 
 ## Example
 
-To scan https://example.com for all vulnerabilities using a short User-Agent:
+To scan example.com for all vulnerabilities using a short User-Agent:
 
 ```bash
 python L0rdGu4rd.py -u https://example.com -a -s
