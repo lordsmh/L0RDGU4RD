@@ -97,5 +97,5 @@ python L0rdGu4rd.py -u https://example.com -a -s
 
 ## Author
 
-Created by **LordSmh** from the [**H4ckL0rd5**](lordsmh.github.io) group
+Created by **LordSmh** from the [**H4ckL0rd5**](https://lordsmh.github.io) group
 .
